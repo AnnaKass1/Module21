@@ -1,11 +1,7 @@
 # Module21
 
-Deposit
+Deployed
 ----------
-![deposit.jpg](https://github.com/AnnaKass1/Module20/blob/main/deposit.jpg)
+![deployed.jpg](https://github.com/AnnaKass1/Module21/blob/main/deployed.jpg)
 
 
-Withdrawl
-
-----------
-![withdraw.jpg](https://github.com/AnnaKass1/Module20/blob/main/withdraw.jpg)
